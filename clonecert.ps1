@@ -15,7 +15,8 @@
     <Description of example>
 
 .NOTES
-    This script was designed to extract and clone the certificate chain from digitaly signed files, and to sign your file using the cloned certificate.  
+    This script was designed to extract and clone the certificate chain from digitaly signed files, and to sign your file 
+    using the cloned certificate.  
     The idea of the script was taken from the post of great :)  Matt Graeber from amaizing SpectOps Team. 
     https://posts.specterops.io/code-signing-certificate-cloning-attacks-and-defenses-6f98657fc6ec
     Author: dosomemagic
